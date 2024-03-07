@@ -1,0 +1,63 @@
+21:38:52.969 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ias28\eclipse-workspace\A3 Tarte_Cosmatic_Hyb_Framework\testng.xml
+
+21:39:05.692 [main] INFO  testCases.TC_001 - ***** Startig TC_001 Test ***** 
+21:39:05.692 [main] DEBUG testCases.TC_001 - application logs.....
+21:39:07.592 [main] INFO  testCases.TC_001 - Clicked on Accept button pop-up
+21:39:07.592 [main] INFO  testCases.TC_001 - ***** Finished TC_001 Test ***** 
+21:41:17.185 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ias28\eclipse-workspace\A3 Tarte_Cosmatic_Hyb_Framework\testng.xml"
+21:41:17.562 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ias28\eclipse-workspace\A3 Tarte_Cosmatic_Hyb_Framework\testng.xml
+
+21:41:28.407 [main] INFO  testCases.TC_001 - ***** Startig TC_001 Test ***** 
+21:41:28.407 [main] DEBUG testCases.TC_001 - application logs.....
+21:41:30.194 [main] INFO  testCases.TC_001 - Clicked on Accept button pop-up
+21:41:30.195 [main] INFO  testCases.TC_001 - ***** Finished TC_001 Test ***** 
+21:42:18.212 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ias28\eclipse-workspace\A3 Tarte_Cosmatic_Hyb_Framework\testng.xml"
+21:42:18.549 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ias28\eclipse-workspace\A3 Tarte_Cosmatic_Hyb_Framework\testng.xml
+
+21:42:26.093 [main] INFO  testCases.TC_001 - ***** Startig TC_001 Test ***** 
+21:42:26.093 [main] DEBUG testCases.TC_001 - application logs.....
+21:42:27.869 [main] INFO  testCases.TC_001 - Clicked on Accept button pop-up
+21:42:27.869 [main] INFO  testCases.TC_001 - ***** Finished TC_001 Test ***** 
+21:44:05.510 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ias28\eclipse-workspace\A3 Tarte_Cosmatic_Hyb_Framework\testng.xml"
+21:44:05.844 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ias28\eclipse-workspace\A3 Tarte_Cosmatic_Hyb_Framework\testng.xml
+
+21:44:16.032 [main] INFO  testCases.TC_001 - ***** Startig TC_001 Test ***** 
+21:44:16.033 [main] DEBUG testCases.TC_001 - application logs.....
+21:44:18.736 [main] INFO  testCases.TC_001 - Clicked on Accept button pop-up
+21:44:18.736 [main] INFO  testCases.TC_001 - ***** Finished TC_001 Test ***** 
+21:50:29.028 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ias28\eclipse-workspace\A3 Tarte_Cosmatic_Hyb_Framework\crossbrowsertests.xml"
+21:50:29.378 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ias28\eclipse-workspace\A3 Tarte_Cosmatic_Hyb_Framework\crossbrowsertests.xml
+
+21:50:35.821 [main] INFO  testCases.TC_001 - ***** Startig TC_001 Test ***** 
+21:50:35.821 [main] DEBUG testCases.TC_001 - application logs.....
+21:50:38.072 [main] INFO  testCases.TC_001 - Clicked on Accept button pop-up
+21:50:38.072 [main] INFO  testCases.TC_001 - ***** Finished TC_001 Test ***** 
+21:50:45.327 [main] INFO  testCases.TC_001 - ***** Startig TC_001 Test ***** 
+21:50:45.327 [main] DEBUG testCases.TC_001 - application logs.....
+21:50:47.409 [main] INFO  testCases.TC_001 - Clicked on Accept button pop-up
+21:50:47.409 [main] INFO  testCases.TC_001 - ***** Finished TC_001 Test ***** 
+21:52:21.171 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ias28\eclipse-workspace\A3 Tarte_Cosmatic_Hyb_Framework\crossbrowsertests.xml"
+21:52:21.601 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ias28\eclipse-workspace\A3 Tarte_Cosmatic_Hyb_Framework\crossbrowsertests.xml
+
+21:52:29.364 [TestNG-tests-1] INFO  testCases.TC_001 - ***** Startig TC_001 Test ***** 
+21:52:29.365 [TestNG-tests-1] DEBUG testCases.TC_001 - application logs.....
+21:52:31.312 [TestNG-tests-2] INFO  testCases.TC_001 - ***** Startig TC_001 Test ***** 
+21:52:31.312 [TestNG-tests-2] DEBUG testCases.TC_001 - application logs.....
+21:52:33.658 [TestNG-tests-2] INFO  testCases.TC_001 - Clicked on Accept button pop-up
+21:52:33.658 [TestNG-tests-2] INFO  testCases.TC_001 - ***** Finished TC_001 Test ***** 
+21:52:34.127 [TestNG-tests-1] INFO  testCases.TC_001 - Clicked on Accept button pop-up
+21:52:34.127 [TestNG-tests-1] INFO  testCases.TC_001 - ***** Finished TC_001 Test ***** 
+22:14:35.221 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\ias28\eclipse-workspace\A3 Tarte_Cosmatic_Hyb_Framework\master.xml"
+22:14:35.539 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ias28\eclipse-workspace\A3 Tarte_Cosmatic_Hyb_Framework\master.xml
+
+22:14:47.077 [main] INFO  testCases.TC_001 - ***** Startig TC_001 Test ***** 
+22:14:47.077 [main] DEBUG testCases.TC_001 - application logs.....
+22:14:49.633 [main] INFO  testCases.TC_001 - Clicked on Accept button pop-up
+22:14:49.633 [main] INFO  testCases.TC_001 - ***** Finished TC_001 Test ***** 
