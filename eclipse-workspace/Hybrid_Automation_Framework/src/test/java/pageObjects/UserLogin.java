@@ -17,7 +17,7 @@ public class UserLogin extends BasePage {
 	@FindBy(xpath="//button[@id='onetrust-accept-btn-handler']")
 	WebElement Accept_cookies;
 	
-	@FindBy(xpath="//button[@aria-label='no thanks; close the dialog']")
+	@FindBy(xpath="//button[text()='no thanks']")
 	WebElement No_thanks_btn;
 	
 	@FindBy(xpath="//div[@class='user nav-item']")
@@ -29,7 +29,7 @@ public class UserLogin extends BasePage {
 	@FindBy(id="login-form-password")
 	WebElement Password;
 	
-	@FindBy(xpath="//button[@class='btn btn-block btn-primary log-in']")
+	@FindBy(xpath="//button[@class='btn btn-block btn-primary log-in ga4event']")
 	WebElement Login_btn;
 	
 	@FindBy(xpath="(//div[@class='yotpo-inner-text'])[1]")

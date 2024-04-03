@@ -49,7 +49,7 @@ public class BaseClass {
 	    }
 	    
 		driver.manage().deleteAllCookies();// delete all cookies 
-        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
+        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
 		driver.get(p.getProperty("appURL"));
 		driver.manage().window().maximize();
 	}
@@ -113,6 +113,9 @@ public class BaseClass {
 		return targetFilePath;
 
 	}
-}
+
+
+	} 
+
 	
 

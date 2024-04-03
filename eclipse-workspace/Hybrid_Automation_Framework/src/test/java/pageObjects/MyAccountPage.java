@@ -19,7 +19,7 @@ public class MyAccountPage extends BasePage {
 	@FindBy(xpath="//h2[normalize-space()='My Info']")
 	WebElement headerMyinfo;
 	
-	@FindBy(xpath="//a[@class='account-logout-link link-secondary']")
+	@FindBy(xpath="//a[@class='account-logout-link link-secondary ga4event']")
 	WebElement logoutlink;
 	
 	
